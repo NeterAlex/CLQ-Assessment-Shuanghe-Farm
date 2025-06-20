@@ -6,7 +6,7 @@ This repository contains the official implementation and a public data subset fo
 This project proposes a novel deep learning framework, BO-Stacking-TabNet, to assess Cultivated Land Quality (CLQ) directly from raw multi-temporal spectral reflectance data from Landsat 9, achieving high accuracy and reliability at the farm scale.
 
 Dataset
-The dataset provided (shuanghe_farm_subset.csv) is a public subset containing 424 anonymized land parcels from the Shuanghe Farm study area. This subset is representative and covers all CLQ grades to ensure the reproducibility of our experiments.
+The dataset provided (subset_data.csv) is a public subset containing 424 anonymized land parcels from the Shuanghe Farm study area. This subset is representative and covers all CLQ grades to ensure the reproducibility of our experiments.
 
 Citation
 If you find this work useful for your research, please consider citing our paper.
