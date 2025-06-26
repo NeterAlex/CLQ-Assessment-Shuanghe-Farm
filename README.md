@@ -10,7 +10,8 @@ The dataset provided (subset_data.csv) is a public subset containing 424 anonymi
 
 **If you find this work useful for your research, please consider citing our paper.**
 
-MDPI and ACS Style
+MDPI and ACS Style：
+
 **Gao, M.; Yang, Z.; Li, X.; Sun, H.; Hang, Y.; Yang, B.; Zhou, Y. Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Period Remote Sensing Images from Landsat 9. Remote Sens. 2025, 17, 2199. https://doi.org/10.3390/rs17132199**
 
 License
