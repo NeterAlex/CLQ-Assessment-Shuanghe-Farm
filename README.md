@@ -10,6 +10,17 @@ The dataset provided (subset_data.csv) is a public subset containing 424 anonymi
 
 Citation
 If you find this work useful for your research, please consider citing our paper.
+MDPI and ACS Style
+Gao, M.; Yang, Z.; Li, X.; Sun, H.; Hang, Y.; Yang, B.; Zhou, Y. Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Period Remote Sensing Images from Landsat 9. Remote Sens. 2025, 17, 2199. https://doi.org/10.3390/rs17132199
+
+AMA Style
+Gao M, Yang Z, Li X, Sun H, Hang Y, Yang B, Zhou Y. Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Period Remote Sensing Images from Landsat 9. Remote Sensing. 2025; 17(13):2199. https://doi.org/10.3390/rs17132199
+
+Chicago/Turabian Style
+Gao, Meng, Zhao Yang, Xiaoming Li, Hongmin Sun, Yanhong Hang, Boyu Yang, and Yang Zhou. 2025. "Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Period Remote Sensing Images from Landsat 9" Remote Sensing 17, no. 13: 2199. https://doi.org/10.3390/rs17132199
+
+APA Style
+Gao, M., Yang, Z., Li, X., Sun, H., Hang, Y., Yang, B., & Zhou, Y. (2025). Research on Cultivated Land Quality Assessment at the Farm Scale for Black Soil Region in Northeast China Based on Typical Period Remote Sensing Images from Landsat 9. Remote Sensing, 17(13), 2199. https://doi.org/10.3390/rs17132199
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
